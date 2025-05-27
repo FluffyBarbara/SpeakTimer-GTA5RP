@@ -5,6 +5,10 @@
 
 ---
 
+![Дизайн SpeakTimer](https://i.postimg.cc/Bn4pZDgm/image.png)
+
+---
+
 ## ✨ Особенности
 
 ✅ Полностью написан с нуля  
